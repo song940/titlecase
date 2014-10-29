@@ -1,0 +1,25 @@
+{
+  "name": "to-titlecase",
+  "version": "1.0.2",
+  "description": "to title case",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/song940/title-case.git"
+  },
+  "keywords": [
+    "title-case"
+  ],
+  "author": "lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/title-case/issues"
+  },
+  "homepage": "https://github.com/song940/title-case",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
